@@ -1,0 +1,19 @@
+{
+  "method": "stats.provider.payments",
+  "result": {
+    "addr": "17a212wdrvEXWuipCV5gcfxdALfMdhMoqh",
+    "nh_wallet": false,
+    "attack_written_off": "0",
+    "attack_amount": "0",
+    "attack_repaid": "0",
+    "payments": [
+      {
+        "amount": "0.00431400",
+        "fee": "0.00023000",
+        "TXID": "txidhere",
+        "time": 1453538732,
+        "type": 0
+      }
+    ]
+  }
+}

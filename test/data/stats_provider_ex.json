@@ -1,0 +1,31 @@
+{
+  "method": "stats.provider.ex",
+  "result": {
+    "addr": "17a212wdrvEXWuipCV5gcfxdALfMdhMoqh",
+    "current": [
+      {
+        "algo": 3,
+        "name": "X11",
+        "suffix": "MH",
+        "profitability": "0.00045845",
+        "data": [
+          {
+            "a": "23.09",
+            "rs": "0.54"
+          },
+          "0.0001234"
+        ]
+      }
+    ],
+    "past": [
+      {
+        "algo": 3,
+        "data": [
+          [4863234, { "a": "28.6" }, "0"],
+          [4863235, { "a": "27.4" }, "0.00000345"]
+        ]
+      }
+    ],
+    "payments": []
+  }
+}

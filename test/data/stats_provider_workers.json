@@ -1,0 +1,8 @@
+{
+  "method": "stats.provider.workers",
+  "result": {
+    "addr": "17a212wdrvEXWuipCV5gcfxdALfMdhMoqh",
+    "algo": 3,
+    "workers": [["rigname", { "a": "11.02", "rs": "0.54" }, 15, 1, "0.1", 0]]
+  }
+}
